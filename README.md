@@ -50,3 +50,7 @@ Usage
 5. Optionally upload your preset to Firebase for cloud sync.
     
 6. Run the script on any Windows machine (as Administrator).
+
+
+<img width="1408" height="824" alt="image" src="https://github.com/user-attachments/assets/9ed50d01-3072-44af-aa50-9b901507103b" />
+
