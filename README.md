@@ -16,6 +16,7 @@ Modules:
 -Firebase Integration – uploads or retrieves presets from the cloud.
 
 
+
 Tech Stack
 
 -Component:	Technology
@@ -35,16 +36,17 @@ Tech Stack
 -Registry Tweaks:	Windows Registry (Regedit)
 
 
+
 Usage
 
 1. Launch the application.
-2. 
-3. Create a new preset and add user profiles.
-4. 
-5. Define directories, software, and optimization options.
-6. 
-7. Generate the configuration script (.cmd or .ps1).
-8. 
-9. Optionally upload your preset to Firebase for cloud sync.
-10. 
-11. Run the script on any Windows machine (as Administrator).
+  
+2. Create a new preset and add user profiles.
+   
+3. Define directories, software, and optimization options.
+   
+4. Generate the configuration script (.cmd or .ps1).
+   
+5. Optionally upload your preset to Firebase for cloud sync.
+    
+6. Run the script on any Windows machine (as Administrator).
