@@ -1,0 +1,95 @@
+{
+    "preset_name": "Preset3",
+    "preset_password": "",
+    "profiles": {
+        "Admin": {
+            "password": "",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": [
+                        {
+                            "name": "PerfLogs",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files (x86)",
+                            "children": []
+                        },
+                        {
+                            "name": "Users",
+                            "children": []
+                        },
+                        {
+                            "name": "Windows",
+                            "children": []
+                        },
+                        {
+                            "name": "XboxGames",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "D:\\",
+                    "children": []
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        }
+    },
+    "apps_structure": [
+        {
+            "name": "C:\\",
+            "children": [
+                {
+                    "name": "PerfLogs",
+                    "children": []
+                },
+                {
+                    "name": "Program Files",
+                    "children": []
+                },
+                {
+                    "name": "Program Files (x86)",
+                    "children": []
+                },
+                {
+                    "name": "Users",
+                    "children": []
+                },
+                {
+                    "name": "Windows",
+                    "children": []
+                },
+                {
+                    "name": "XboxGames",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "D:\\",
+            "children": []
+        },
+        {
+            "name": "E:\\",
+            "children": []
+        }
+    ],
+    "apps_global": {
+        "Steam (steam)": "C:\\PerfLogs"
+    },
+    "optimizations_global": [
+        "Disable Telemetry",
+        "Enable High Performance Mode",
+        "Disable Background Apps"
+    ]
+}

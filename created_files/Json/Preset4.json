@@ -1,0 +1,319 @@
+{
+    "preset_name": "Preset4",
+    "preset_password": "",
+    "profiles": {
+        "Admin": {
+            "password": "",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": []
+                },
+                {
+                    "name": "D:\\",
+                    "children": [
+                        {
+                            "name": "EA",
+                            "children": [
+                                {
+                                    "name": "Battlefield V",
+                                    "children": []
+                                },
+                                {
+                                    "name": "EA SPORTS FC 25",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Licenta",
+                            "children": []
+                        },
+                        {
+                            "name": "LOL",
+                            "children": [
+                                {
+                                    "name": "Riot Games",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "MalwareBytes",
+                            "children": []
+                        },
+                        {
+                            "name": "Metin2",
+                            "children": [
+                                {
+                                    "name": "Janes",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Janes - Ninha",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Steam",
+                            "children": [
+                                {
+                                    "name": "appcache",
+                                    "children": []
+                                },
+                                {
+                                    "name": "bin",
+                                    "children": []
+                                },
+                                {
+                                    "name": "clientui",
+                                    "children": []
+                                },
+                                {
+                                    "name": "config",
+                                    "children": []
+                                },
+                                {
+                                    "name": "controller_base",
+                                    "children": []
+                                },
+                                {
+                                    "name": "depotcache",
+                                    "children": []
+                                },
+                                {
+                                    "name": "dumps",
+                                    "children": []
+                                },
+                                {
+                                    "name": "friends",
+                                    "children": []
+                                },
+                                {
+                                    "name": "graphics",
+                                    "children": []
+                                },
+                                {
+                                    "name": "logs",
+                                    "children": []
+                                },
+                                {
+                                    "name": "package",
+                                    "children": []
+                                },
+                                {
+                                    "name": "public",
+                                    "children": []
+                                },
+                                {
+                                    "name": "resource",
+                                    "children": []
+                                },
+                                {
+                                    "name": "steam",
+                                    "children": []
+                                },
+                                {
+                                    "name": "steamapps",
+                                    "children": []
+                                },
+                                {
+                                    "name": "steamui",
+                                    "children": []
+                                },
+                                {
+                                    "name": "tenfoot",
+                                    "children": []
+                                },
+                                {
+                                    "name": "userdata",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        },
+        "Preset1": {
+            "password": "Pass1",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": []
+                },
+                {
+                    "name": "D:\\",
+                    "children": [
+                        {
+                            "name": "EA",
+                            "children": []
+                        },
+                        {
+                            "name": "Licenta",
+                            "children": []
+                        },
+                        {
+                            "name": "LOL",
+                            "children": []
+                        },
+                        {
+                            "name": "MalwareBytes",
+                            "children": []
+                        },
+                        {
+                            "name": "Metin2",
+                            "children": []
+                        },
+                        {
+                            "name": "Steam",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        },
+        "Preset2": {
+            "password": "Pass2",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": []
+                },
+                {
+                    "name": "D:\\",
+                    "children": [
+                        {
+                            "name": "EA",
+                            "children": []
+                        },
+                        {
+                            "name": "Licenta",
+                            "children": []
+                        },
+                        {
+                            "name": "LOL",
+                            "children": []
+                        },
+                        {
+                            "name": "MalwareBytes",
+                            "children": []
+                        },
+                        {
+                            "name": "Metin2",
+                            "children": []
+                        },
+                        {
+                            "name": "Steam",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        }
+    },
+    "apps_structure": [
+        {
+            "name": "C:\\",
+            "children": []
+        },
+        {
+            "name": "D:\\",
+            "children": [
+                {
+                    "name": "EA",
+                    "children": []
+                },
+                {
+                    "name": "Licenta",
+                    "children": []
+                },
+                {
+                    "name": "LOL",
+                    "children": []
+                },
+                {
+                    "name": "MalwareBytes",
+                    "children": []
+                },
+                {
+                    "name": "Metin2",
+                    "children": []
+                },
+                {
+                    "name": "Steam",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "E:\\",
+            "children": [
+                {
+                    "name": "created_files",
+                    "children": []
+                },
+                {
+                    "name": "firebase_uploads",
+                    "children": []
+                },
+                {
+                    "name": "JsonToCmd",
+                    "children": []
+                },
+                {
+                    "name": "MainScript",
+                    "children": []
+                },
+                {
+                    "name": "Objects",
+                    "children": []
+                },
+                {
+                    "name": "Scripts",
+                    "children": []
+                },
+                {
+                    "name": "UI",
+                    "children": []
+                },
+                {
+                    "name": "windows",
+                    "children": []
+                },
+                {
+                    "name": "__pycache__",
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "apps_global": {
+        "Steam (steam)": "E:\\created_files",
+        "WinRAR (winrar)": "E:\\created_files",
+        "Notepad++ (notepadplusplus)": "E:\\created_files",
+        "EA Desktop Client App (ea-app)": "E:\\created_files",
+        "Visual Studio Code (vscode)": "E:\\created_files",
+        "Code::Blocks (codeblocks)": "E:\\created_files"
+    },
+    "optimizations_global": [
+        "Disable Telemetry",
+        "Enable High Performance Mode",
+        "Disable Background Apps",
+        "Disable Bing Search & Ads",
+        "Remove Preinstalled Apps"
+    ]
+}

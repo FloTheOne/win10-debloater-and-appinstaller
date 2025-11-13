@@ -1,0 +1,1266 @@
+{
+    "preset_name": "PresetNou",
+    "preset_password": "Pass1",
+    "profiles": {
+        "Admin": {
+            "password": "",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": [
+                        {
+                            "name": "PerfLogs",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files",
+                            "children": [
+                                {
+                                    "name": "Adobe",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Common Files",
+                                    "children": []
+                                },
+                                {
+                                    "name": "EA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "EA Games",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Electronic Arts",
+                                    "children": []
+                                },
+                                {
+                                    "name": "FACEIT AC",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Git",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Google",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Intel",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Internet Explorer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft Office",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft Office 15",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft OneDrive",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft Update Health Tools",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ModifiableWindowsApps",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSBuild",
+                                    "children": []
+                                },
+                                {
+                                    "name": "NVIDIA Corporation",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Oracle",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Parsec",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Parsec Virtual Display Driver",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Parsec Virtual USB Adapter Driver",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Razer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Reference Assemblies",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Riot Vanguard",
+                                    "children": []
+                                },
+                                {
+                                    "name": "RUXIM",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Defender",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Defender Advanced Threat Protection",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Mail",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Media Player",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Multimedia Platform",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows NT",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Photo Viewer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Portable Devices",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Security",
+                                    "children": []
+                                },
+                                {
+                                    "name": "WindowsPowerShell",
+                                    "children": []
+                                },
+                                {
+                                    "name": "WinRAR",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Program Files (x86)",
+                            "children": [
+                                {
+                                    "name": "Common Files",
+                                    "children": []
+                                },
+                                {
+                                    "name": "EasyAntiCheat_EOS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Google",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Intel",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Internet Explorer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft.NET",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSBuild",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "NVIDIA Corporation",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Razer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Realtek",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Reference Assemblies",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Defender",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Mail",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Media Player",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Multimedia Platform",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows NT",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Photo Viewer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Portable Devices",
+                                    "children": []
+                                },
+                                {
+                                    "name": "WindowsPowerShell",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Users",
+                            "children": [
+                                {
+                                    "name": "Alex",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Public",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Windows",
+                            "children": [
+                                {
+                                    "name": "addins",
+                                    "children": []
+                                },
+                                {
+                                    "name": "appcompat",
+                                    "children": []
+                                },
+                                {
+                                    "name": "apppatch",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AppReadiness",
+                                    "children": []
+                                },
+                                {
+                                    "name": "assembly",
+                                    "children": []
+                                },
+                                {
+                                    "name": "bcastdvr",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Boot",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Branding",
+                                    "children": []
+                                },
+                                {
+                                    "name": "CbsTemp",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Containers",
+                                    "children": []
+                                },
+                                {
+                                    "name": "CSC",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Cursors",
+                                    "children": []
+                                },
+                                {
+                                    "name": "debug",
+                                    "children": []
+                                },
+                                {
+                                    "name": "diagnostics",
+                                    "children": []
+                                },
+                                {
+                                    "name": "DiagTrack",
+                                    "children": []
+                                },
+                                {
+                                    "name": "DigitalLocker",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Downloaded Program Files",
+                                    "children": []
+                                },
+                                {
+                                    "name": "en-US",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Fonts",
+                                    "children": []
+                                },
+                                {
+                                    "name": "GameBarPresenceWriter",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Globalization",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Help",
+                                    "children": []
+                                },
+                                {
+                                    "name": "IdentityCRL",
+                                    "children": []
+                                },
+                                {
+                                    "name": "IME",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ImmersiveControlPanel",
+                                    "children": []
+                                },
+                                {
+                                    "name": "InboxApps",
+                                    "children": []
+                                },
+                                {
+                                    "name": "INF",
+                                    "children": []
+                                },
+                                {
+                                    "name": "InputMethod",
+                                    "children": []
+                                },
+                                {
+                                    "name": "L2Schemas",
+                                    "children": []
+                                },
+                                {
+                                    "name": "LiveKernelReports",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Logs",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Media",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft.NET",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Migration",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ModemLogs",
+                                    "children": []
+                                },
+                                {
+                                    "name": "OCR",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Offline Web Pages",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Panther",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Performance",
+                                    "children": []
+                                },
+                                {
+                                    "name": "PLA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "PolicyDefinitions",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Prefetch",
+                                    "children": []
+                                },
+                                {
+                                    "name": "PrintDialog",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Provisioning",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Registration",
+                                    "children": []
+                                },
+                                {
+                                    "name": "RemotePackages",
+                                    "children": []
+                                },
+                                {
+                                    "name": "rescache",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Resources",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ro-RO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SchCache",
+                                    "children": []
+                                },
+                                {
+                                    "name": "schemas",
+                                    "children": []
+                                },
+                                {
+                                    "name": "security",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ServiceProfiles",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ServiceState",
+                                    "children": []
+                                },
+                                {
+                                    "name": "servicing",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Setup",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ShellComponents",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ShellExperiences",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SKB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SoftwareDistribution",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Speech",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Speech_OneCore",
+                                    "children": []
+                                },
+                                {
+                                    "name": "System",
+                                    "children": []
+                                },
+                                {
+                                    "name": "System32",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SystemApps",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SystemResources",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SystemTemp",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SysWOW64",
+                                    "children": []
+                                },
+                                {
+                                    "name": "TAPI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Tasks",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Temp",
+                                    "children": []
+                                },
+                                {
+                                    "name": "tracing",
+                                    "children": []
+                                },
+                                {
+                                    "name": "twain_32",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Vss",
+                                    "children": []
+                                },
+                                {
+                                    "name": "WaaS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Web",
+                                    "children": []
+                                },
+                                {
+                                    "name": "WinSxS",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "XboxGames",
+                            "children": [
+                                {
+                                    "name": "GameSave",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "D:\\",
+                    "children": []
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                },
+                {
+                    "name": "F:\\",
+                    "children": []
+                }
+            ]
+        },
+        "Nume1": {
+            "password": "Pass1",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": [
+                        {
+                            "name": "PerfLogs",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files",
+                            "children": [
+                                {
+                                    "name": "Adobe",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Common Files",
+                                    "children": []
+                                },
+                                {
+                                    "name": "EA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "EA Games",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Electronic Arts",
+                                    "children": []
+                                },
+                                {
+                                    "name": "FACEIT AC",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Git",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Google",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Intel",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Internet Explorer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft Office",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft Office 15",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft OneDrive",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft Update Health Tools",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ModifiableWindowsApps",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSBuild",
+                                    "children": []
+                                },
+                                {
+                                    "name": "NVIDIA Corporation",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Oracle",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Parsec",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Parsec Virtual Display Driver",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Parsec Virtual USB Adapter Driver",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Razer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Reference Assemblies",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Riot Vanguard",
+                                    "children": []
+                                },
+                                {
+                                    "name": "RUXIM",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Defender",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Defender Advanced Threat Protection",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Mail",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Media Player",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Multimedia Platform",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows NT",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Photo Viewer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Portable Devices",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Security",
+                                    "children": []
+                                },
+                                {
+                                    "name": "WindowsPowerShell",
+                                    "children": []
+                                },
+                                {
+                                    "name": "WinRAR",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Program Files (x86)",
+                            "children": [
+                                {
+                                    "name": "Common Files",
+                                    "children": []
+                                },
+                                {
+                                    "name": "EasyAntiCheat_EOS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Google",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Intel",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Internet Explorer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft.NET",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSBuild",
+                                    "children": []
+                                },
+                                {
+                                    "name": "MSI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "NVIDIA Corporation",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Razer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Realtek",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Reference Assemblies",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Defender",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Mail",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Media Player",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Multimedia Platform",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows NT",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Photo Viewer",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Windows Portable Devices",
+                                    "children": []
+                                },
+                                {
+                                    "name": "WindowsPowerShell",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Users",
+                            "children": [
+                                {
+                                    "name": "Alex",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Public",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Windows",
+                            "children": [
+                                {
+                                    "name": "addins",
+                                    "children": []
+                                },
+                                {
+                                    "name": "appcompat",
+                                    "children": []
+                                },
+                                {
+                                    "name": "apppatch",
+                                    "children": []
+                                },
+                                {
+                                    "name": "AppReadiness",
+                                    "children": []
+                                },
+                                {
+                                    "name": "assembly",
+                                    "children": []
+                                },
+                                {
+                                    "name": "bcastdvr",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Boot",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Branding",
+                                    "children": []
+                                },
+                                {
+                                    "name": "CbsTemp",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Containers",
+                                    "children": []
+                                },
+                                {
+                                    "name": "CSC",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Cursors",
+                                    "children": []
+                                },
+                                {
+                                    "name": "debug",
+                                    "children": []
+                                },
+                                {
+                                    "name": "diagnostics",
+                                    "children": []
+                                },
+                                {
+                                    "name": "DiagTrack",
+                                    "children": []
+                                },
+                                {
+                                    "name": "DigitalLocker",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Downloaded Program Files",
+                                    "children": []
+                                },
+                                {
+                                    "name": "en-US",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Fonts",
+                                    "children": []
+                                },
+                                {
+                                    "name": "GameBarPresenceWriter",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Globalization",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Help",
+                                    "children": []
+                                },
+                                {
+                                    "name": "IdentityCRL",
+                                    "children": []
+                                },
+                                {
+                                    "name": "IME",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ImmersiveControlPanel",
+                                    "children": []
+                                },
+                                {
+                                    "name": "InboxApps",
+                                    "children": []
+                                },
+                                {
+                                    "name": "INF",
+                                    "children": []
+                                },
+                                {
+                                    "name": "InputMethod",
+                                    "children": []
+                                },
+                                {
+                                    "name": "L2Schemas",
+                                    "children": []
+                                },
+                                {
+                                    "name": "LiveKernelReports",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Logs",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Media",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Microsoft.NET",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Migration",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ModemLogs",
+                                    "children": []
+                                },
+                                {
+                                    "name": "OCR",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Offline Web Pages",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Panther",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Performance",
+                                    "children": []
+                                },
+                                {
+                                    "name": "PLA",
+                                    "children": []
+                                },
+                                {
+                                    "name": "PolicyDefinitions",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Prefetch",
+                                    "children": []
+                                },
+                                {
+                                    "name": "PrintDialog",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Provisioning",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Registration",
+                                    "children": []
+                                },
+                                {
+                                    "name": "RemotePackages",
+                                    "children": []
+                                },
+                                {
+                                    "name": "rescache",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Resources",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ro-RO",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SchCache",
+                                    "children": []
+                                },
+                                {
+                                    "name": "schemas",
+                                    "children": []
+                                },
+                                {
+                                    "name": "security",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ServiceProfiles",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ServiceState",
+                                    "children": []
+                                },
+                                {
+                                    "name": "servicing",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Setup",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ShellComponents",
+                                    "children": []
+                                },
+                                {
+                                    "name": "ShellExperiences",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SKB",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SoftwareDistribution",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Speech",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Speech_OneCore",
+                                    "children": []
+                                },
+                                {
+                                    "name": "System",
+                                    "children": []
+                                },
+                                {
+                                    "name": "System32",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SystemApps",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SystemResources",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SystemTemp",
+                                    "children": []
+                                },
+                                {
+                                    "name": "SysWOW64",
+                                    "children": []
+                                },
+                                {
+                                    "name": "TAPI",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Tasks",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Temp",
+                                    "children": []
+                                },
+                                {
+                                    "name": "tracing",
+                                    "children": []
+                                },
+                                {
+                                    "name": "twain_32",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Vss",
+                                    "children": []
+                                },
+                                {
+                                    "name": "WaaS",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Web",
+                                    "children": []
+                                },
+                                {
+                                    "name": "WinSxS",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "XboxGames",
+                            "children": [
+                                {
+                                    "name": "GameSave",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "D:\\",
+                    "children": []
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        },
+        "Nume2": {
+            "password": "Pass2",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": []
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        }
+    },
+    "apps_structure": [
+        {
+            "name": "C:\\",
+            "children": [
+                {
+                    "name": "Steam",
+                    "children": []
+                },
+                {
+                    "name": "Notepad",
+                    "children": []
+                },
+                {
+                    "name": "Winrar",
+                    "children": []
+                },
+                {
+                    "name": "firefox",
+                    "children": []
+                },
+                {
+                    "name": "Chrome",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "D:\\",
+            "children": []
+        },
+        {
+            "name": "E:\\",
+            "children": []
+        },
+        {
+            "name": "F:\\",
+            "children": []
+        }
+    ],
+    "apps_global": {
+        "Steam (steam)": "C:\\Steam",
+        "Notepad++ (notepadplusplus)": "C:\\Notepad",
+        "WinRAR (winrar)": "C:\\Winrar",
+        "Mozilla Firefox (Firefox)": "C:\\firefox",
+        "Google Chrome (GoogleChrome)": "C:\\Chrome"
+    },
+    "optimizations_global": [
+        "Disable Telemetry",
+        "Enable High Performance Mode",
+        "Disable Background Apps",
+        "Disable Bing Search & Ads",
+        "Remove Preinstalled Apps"
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "preset_name": "PresetFinal",
+    "preset_password": "",
+    "profiles": {
+        "Admin": {
+            "password": "",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": [
+                        {
+                            "name": "Randrom",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "D:\\",
+                    "children": []
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        },
+        "Preset1": {
+            "password": "Pass1",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": [
+                        {
+                            "name": "PerfLogs",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files (x86)",
+                            "children": []
+                        },
+                        {
+                            "name": "Users",
+                            "children": []
+                        },
+                        {
+                            "name": "Windows",
+                            "children": []
+                        },
+                        {
+                            "name": "XboxGames",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "D:\\",
+                    "children": []
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        },
+        "Preset2": {
+            "password": "Pass2",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": [
+                        {
+                            "name": "PerfLogs",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files (x86)",
+                            "children": []
+                        },
+                        {
+                            "name": "Users",
+                            "children": []
+                        },
+                        {
+                            "name": "Windows",
+                            "children": []
+                        },
+                        {
+                            "name": "XboxGames",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "D:\\",
+                    "children": []
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        }
+    },
+    "apps_structure": [
+        {
+            "name": "C:\\",
+            "children": [
+                {
+                    "name": "Steam",
+                    "children": []
+                },
+                {
+                    "name": "Winrar",
+                    "children": []
+                },
+                {
+                    "name": "firefox",
+                    "children": []
+                },
+                {
+                    "name": "Chrome",
+                    "children": []
+                },
+                {
+                    "name": "vscode",
+                    "children": []
+                },
+                {
+                    "name": "notepad",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "D:\\",
+            "children": []
+        },
+        {
+            "name": "E:\\",
+            "children": []
+        }
+    ],
+    "apps_global": {
+        "Steam (steam)": "C:\\Steam",
+        "WinRAR (winrar)": "C:\\Winrar",
+        "Mozilla Firefox (FirefoxESR)": "C:\\firefox",
+        "Google Chrome (GoogleChrome)": "C:\\Chrome",
+        "Visual Studio Code (vscode)": "C:\\vscode",
+        "Notepad++ (notepadplusplus)": "C:\\notepad"
+    },
+    "optimizations_global": [
+        "Disable Telemetry",
+        "Enable High Performance Mode",
+        "Disable Background Apps",
+        "Disable Bing Search & Ads",
+        "Remove Preinstalled Apps"
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "preset_name": "Preset1",
+    "preset_password": "",
+    "profiles": {
+        "Admin": {
+            "password": "",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": [
+                        {
+                            "name": "PerfLogs",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files (x86)",
+                            "children": []
+                        },
+                        {
+                            "name": "Users",
+                            "children": []
+                        },
+                        {
+                            "name": "Windows",
+                            "children": []
+                        },
+                        {
+                            "name": "XboxGames",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "D:\\",
+                    "children": []
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        },
+        "Win1": {
+            "password": "Pass1",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": [
+                        {
+                            "name": "PerfLogs",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files (x86)",
+                            "children": []
+                        },
+                        {
+                            "name": "Users",
+                            "children": []
+                        },
+                        {
+                            "name": "Windows",
+                            "children": []
+                        },
+                        {
+                            "name": "XboxGames",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "D:\\",
+                    "children": []
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        },
+        "Win2": {
+            "password": "Pass2",
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": [
+                        {
+                            "name": "PerfLogs",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files",
+                            "children": []
+                        },
+                        {
+                            "name": "Program Files (x86)",
+                            "children": []
+                        },
+                        {
+                            "name": "Users",
+                            "children": []
+                        },
+                        {
+                            "name": "Windows",
+                            "children": []
+                        },
+                        {
+                            "name": "XboxGames",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "D:\\",
+                    "children": []
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ]
+        }
+    },
+    "apps_structure": [
+        {
+            "name": "C:\\",
+            "children": [
+                {
+                    "name": "PerfLogs",
+                    "children": []
+                },
+                {
+                    "name": "Program Files",
+                    "children": []
+                },
+                {
+                    "name": "Program Files (x86)",
+                    "children": []
+                },
+                {
+                    "name": "Users",
+                    "children": []
+                },
+                {
+                    "name": "Windows",
+                    "children": []
+                },
+                {
+                    "name": "XboxGames",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "D:\\",
+            "children": []
+        },
+        {
+            "name": "E:\\",
+            "children": []
+        }
+    ],
+    "apps_global": {
+        "Steam (steam)": "C:\\",
+        "Mozilla Firefox (Firefox)": "C:\\"
+    },
+    "optimizations_global": [
+        "Disable Telemetry",
+        "Enable High Performance Mode",
+        "Disable Background Apps",
+        "Disable Bing Search & Ads",
+        "Remove Preinstalled Apps"
+    ]
+}
