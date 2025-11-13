@@ -17,13 +17,21 @@ Modules:
 
 
 Tech Stack
+
 -Component:	Technology
+
 -Interface:	PyQt (Python)
+
 -Language:	Python 3.19
+
 -Package Manager:	Chocolatey
+
 -Scripting:	CMD / PowerShell
+
 -Config Format:	JSON
+
 -Cloud Sync:	Firebase ( Database / Firestore)
+
 -Registry Tweaks:	Windows Registry (Regedit)
 
 
